@@ -1,7 +1,7 @@
 # CyberSecurity
 
 How to run (Linux/MacOS)
-To train the model run
+To train the model run\n
 python trigger_detector.py
 
 Now to test the model run
